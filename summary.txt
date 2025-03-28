@@ -1,0 +1,23 @@
+1. update_coordinates.py:
+   - 功能：从 Nominatim 服务获取地理坐标并更新 MongoDB 集合中的坐标字段。
+   - 主要功能包括：智能延迟、坐标验证、缓存机制、MongoDB 更新。
+
+2. store_data_to_mongo.py:
+   - 功能：从 Excel 文件中读取货物和船舶数据并存储到 MongoDB。
+   - 包括数据清洗、日期和数值字段的转换。
+
+3. read_distance_result.py:
+   - 功能：提供基于 Flask 的 API，用于查询 MongoDB 中的距离匹配结果。
+   - 支持分页和多条件过滤。
+
+4. print_collection_title.py:
+   - 功能：打印 MongoDB 数据库中每个集合的名称及其字段。
+
+5. match_cargo_tonnage.py:
+   - 功能：根据货物和船舶的条件匹配记录，并将结果存储到 MongoDB。
+
+6. distance_by_osm.py:
+   - 功能：计算匹配记录的港口距离（公里和海里），并存储到 MongoDB。
+
+7. data_check_test.py:
+   - 功能：检查 MongoDB 数据库中的数据，打印集合中的前五条记录及其总数。

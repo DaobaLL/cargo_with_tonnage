@@ -1,0 +1,10 @@
+store_data_to_mongo.py 从xlsx中读取数据并存储到 Mongo 数据库中，ship 和 cargo 两个集合
+使用的时候先启动这个
+
+update_coordinates.py 会更具两个集合中的港口名称从网上爬取其经纬度然后存储
+
+check_coordinates.py 检查地理信息，不规范或者无效的删除。
+
+match_cargo_tonnage.py 通过重量和日期匹配船舶和货物，匹配结果存储到result中
+
+distance_by_osm.py 计算result中每个文档的距离，只是大圆航线直线距离。并存储到distance_resule中
