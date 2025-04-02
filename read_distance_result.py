@@ -1,6 +1,6 @@
 import os
 import requests
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, Response
 import pymongo
 
 # Initialize Flask application
@@ -31,8 +31,19 @@ def maps_api():
     params["key"] = GOOGLE_MAPS_API_KEY
 
     # 转发请求到 Google Maps API
-    response = requests.get("https://maps.googleapis.com/maps/api/js", params=params)
-    return response.content, response.status_code, response.headers.items()
+    try:
+        response = requests.get("https://maps.googleapis.com/maps/api/js", params=params, stream=True)
+        response.raise_for_status()  # 检查是否有 HTTP 错误
+
+        # 构造 Flask 响应对象
+        flask_response = Response(response.content, status=response.status_code)
+        for key, value in response.headers.items():
+            flask_response.headers[key] = value
+
+        return flask_response
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching Google Maps API: {e}")
+        return jsonify({"error": "Failed to load Google Maps API"}), 500
 
 @app.route("/query", methods=["GET"])
 def query_distances():
