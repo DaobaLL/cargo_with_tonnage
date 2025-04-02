@@ -1,4 +1,5 @@
 import os
+import requests
 from flask import Flask, request, jsonify, render_template
 import pymongo
 
@@ -19,6 +20,19 @@ except Exception as e:
 def index():
     """Render the main page"""
     return render_template("index.html")
+
+
+GOOGLE_MAPS_API_KEY = "AIzaSyBS4hLP9ST1uvT3vxT-vR_3bZJ-BXCUoQo"
+
+@app.route("/maps-api", methods=["GET"])
+def maps_api():
+    # 获取前端传递的参数
+    params = request.args.to_dict()
+    params["key"] = GOOGLE_MAPS_API_KEY
+
+    # 转发请求到 Google Maps API
+    response = requests.get("https://maps.googleapis.com/maps/api/js", params=params)
+    return response.content, response.status_code, response.headers.items()
 
 @app.route("/query", methods=["GET"])
 def query_distances():
