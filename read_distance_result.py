@@ -1,6 +1,4 @@
-# 后端代码
-# 该代码用于从MongoDB数据库中读取距离数据，并提供一个API接口供前端查询   
-
+import os
 from flask import Flask, request, jsonify, render_template
 import pymongo
 
@@ -8,9 +6,14 @@ import pymongo
 app = Flask(__name__)
 
 # Connect to MongoDB
-client = pymongo.MongoClient("mongodb://localhost:27017/")
-db = client["cargo_with_tonnage"]
-distance_result_collection = db["distance_result"]
+mongo_uri = os.getenv("MONGO_URI", "mongodb://localhost:27017/")
+try:
+    client = pymongo.MongoClient(mongo_uri)
+    db = client["cargo_with_tonnage"]
+    distance_result_collection = db["distance_result"]
+    print("MongoDB connected successfully!")
+except Exception as e:
+    print(f"Error connecting to MongoDB: {e}")
 
 @app.route("/")
 def index():
@@ -69,4 +72,4 @@ def query_distances():
     })
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)

@@ -1,0 +1,4400 @@
+[{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799be"
+  },
+  "city": "CHITTAGONG,BD",
+  "coordinates": {
+    "latitude": 22.333778,
+    "longitude": 91.8344348,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799bf"
+  },
+  "city": "TAIXING,CN",
+  "coordinates": {
+    "latitude": 32.1684583,
+    "longitude": 120.0165362,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c0"
+  },
+  "city": "YANGZHONG,CN,YANGZHOU,CN",
+  "coordinates": {
+    "latitude": 32.8003716,
+    "longitude": 119.4403616,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c1"
+  },
+  "city": "CHORNOMORSK,UA",
+  "coordinates": {
+    "latitude": 46.3020943,
+    "longitude": 30.653466,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c2"
+  },
+  "city": "SILLAMAE,EE",
+  "coordinates": {
+    "latitude": 59.4034594,
+    "longitude": 27.729193909271594,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c3"
+  },
+  "city": "BALTIMORE,US",
+  "coordinates": {
+    "latitude": 39.2908816,
+    "longitude": -76.610759,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c4"
+  },
+  "city": "VOSTOCHNY,RU",
+  "coordinates": {
+    "latitude": 58.8017399,
+    "longitude": 61.8025797,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c5"
+  },
+  "city": "CHERNOMORSK,UA",
+  "coordinates": {
+    "latitude": 46.324246450000004,
+    "longitude": 30.652263095895428,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c6"
+  },
+  "city": "SAFAGA,EG",
+  "coordinates": {
+    "latitude": 26.7633325,
+    "longitude": 33.9383817,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c7"
+  },
+  "city": "ODESSA,UA",
+  "coordinates": {
+    "latitude": 46.4843023,
+    "longitude": 30.7322878,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c8"
+  },
+  "city": "NIL",
+  "coordinates": {
+    "latitude": 11.9566972,
+    "longitude": 34.122894,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799c9"
+  },
+  "city": "VIZAG,IN",
+  "coordinates": {
+    "latitude": 17.6935526,
+    "longitude": 83.2921297,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799ca"
+  },
+  "city": "PAKISTAN,PK",
+  "coordinates": {
+    "latitude": 30.3308401,
+    "longitude": 71.247499,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799cb"
+  },
+  "city": "TIANJIN",
+  "coordinates": {
+    "latitude": 39.3032619,
+    "longitude": 117.4163641,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799cc"
+  },
+  "city": "EGYPT",
+  "coordinates": {
+    "latitude": 26.2540493,
+    "longitude": 29.2675469,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799cd"
+  },
+  "city": "NOVOKUZNETSK,RU",
+  "coordinates": {
+    "latitude": 53.7575903,
+    "longitude": 87.1358494,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799ce"
+  },
+  "city": "BOURGAS,BG",
+  "coordinates": {
+    "latitude": 42.4936616,
+    "longitude": 27.4721276,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799cf"
+  },
+  "city": "KARACHI,PK",
+  "coordinates": {
+    "latitude": 24.8546842,
+    "longitude": 67.0207055,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d0"
+  },
+  "city": "ABIDJAN,CI",
+  "coordinates": {
+    "latitude": 5.320357,
+    "longitude": -4.016107,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d1"
+  },
+  "city": "MUNDRA,IN",
+  "coordinates": {
+    "latitude": 22.8393153,
+    "longitude": 69.7249477,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d2"
+  },
+  "city": "CHINA",
+  "coordinates": {
+    "latitude": 35.0000663,
+    "longitude": 104.999955,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d3"
+  },
+  "city": "SHANGHAI,CN",
+  "coordinates": {
+    "latitude": 31.2312707,
+    "longitude": 121.4700152,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d4"
+  },
+  "city": "DAR ES SALAAM,TZ",
+  "coordinates": {
+    "latitude": -6.8160837,
+    "longitude": 39.2803583,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d5"
+  },
+  "city": "KWINANA,AU",
+  "coordinates": {
+    "latitude": -32.233854,
+    "longitude": 115.82114839519188,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d6"
+  },
+  "city": "UPRIVER,BR",
+  "coordinates": {
+    "latitude": 26.9413864,
+    "longitude": -82.03682596856596,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d7"
+  },
+  "city": "DURBAN,ZA",
+  "coordinates": {
+    "latitude": -29.861825,
+    "longitude": 31.009909,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d8"
+  },
+  "city": "HOCHIMINH,VN",
+  "coordinates": {
+    "latitude": 10.7238881,
+    "longitude": 106.73130505822276,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799d9"
+  },
+  "city": "ZHANGJIAGANG,CN",
+  "coordinates": {
+    "latitude": 31.8782976,
+    "longitude": 120.5514595,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799da"
+  },
+  "city": "LONGONI,YT",
+  "coordinates": {
+    "latitude": -12.7344866,
+    "longitude": 45.1631604,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799db"
+  },
+  "city": "TSUKUMI,JP",
+  "coordinates": {
+    "latitude": 33.0722942,
+    "longitude": 131.861347,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799dc"
+  },
+  "city": "BAHODOPI,ID",
+  "coordinates": {
+    "latitude": -2.9132293000000002,
+    "longitude": 121.95081881460118,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799dd"
+  },
+  "city": "QINGDAO,CN",
+  "coordinates": {
+    "latitude": 36.0663249,
+    "longitude": 120.3777659,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799de"
+  },
+  "city": "PHUKET,TH",
+  "coordinates": {
+    "latitude": 7.9366015,
+    "longitude": 98.3529292,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799df"
+  },
+  "city": "SONGKHLA,TH",
+  "coordinates": {
+    "latitude": 6.8790221,
+    "longitude": 100.5498542,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e0"
+  },
+  "city": "DUNG QUAT,VN",
+  "coordinates": {
+    "latitude": 15.3566038,
+    "longitude": 108.7260824,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e1"
+  },
+  "city": "PASIR GUDANG,MY",
+  "coordinates": {
+    "latitude": 1.4953437,
+    "longitude": 103.9207048,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e2"
+  },
+  "city": "RIO GRAND,BR",
+  "coordinates": {
+    "latitude": 51.3690371,
+    "longitude": -0.1949558,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e3"
+  },
+  "city": "MUMBAI,IN",
+  "coordinates": {
+    "latitude": 19.054999,
+    "longitude": 72.8692035,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e4"
+  },
+  "city": "RAS AL KHAIR,SA",
+  "coordinates": {
+    "latitude": 27.532363,
+    "longitude": 49.13981395876323,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e5"
+  },
+  "city": "MERSIN,TR",
+  "coordinates": {
+    "latitude": 36.7978381,
+    "longitude": 34.6298391,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e6"
+  },
+  "city": "PORTO MARGHERA,IT",
+  "coordinates": {
+    "latitude": 45.4724015,
+    "longitude": 12.2559021,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e7"
+  },
+  "city": "KANDLA,IN",
+  "coordinates": {
+    "latitude": 23.0177525,
+    "longitude": 70.2096164,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e8"
+  },
+  "city": "DONGGUAN,CN",
+  "coordinates": {
+    "latitude": 23.0205969,
+    "longitude": 113.7457788,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799e9"
+  },
+  "city": "NOLA,IT",
+  "coordinates": {
+    "latitude": 40.9210826,
+    "longitude": 14.5327402,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799ea"
+  },
+  "city": "SOUTH,KOREA",
+  "coordinates": {
+    "latitude": 36.638392,
+    "longitude": 127.6961188,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799eb"
+  },
+  "city": "NORTH,CHINA",
+  "coordinates": {
+    "latitude": 54.7689529,
+    "longitude": -1.5913157,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799ec"
+  },
+  "city": "MATARANI,PE",
+  "coordinates": {
+    "latitude": -16.9999651,
+    "longitude": -72.093351,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799ed"
+  },
+  "city": "SANTOS,BR",
+  "coordinates": {
+    "latitude": -23.9335988,
+    "longitude": -46.3286399,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799ee"
+  },
+  "city": "MUARA BERAU,ID,MUARA BERAUM,ID",
+  "coordinates": {
+    "latitude": 2.1324733,
+    "longitude": 117.4827459,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799ef"
+  },
+  "city": "VANCOUVER,CA",
+  "coordinates": {
+    "latitude": 49.2608724,
+    "longitude": -123.113952,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f0"
+  },
+  "city": "FUZHOU,CN",
+  "coordinates": {
+    "latitude": 26.0883747,
+    "longitude": 119.3002002,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f1"
+  },
+  "city": "LIVERPOOL,UK",
+  "coordinates": {
+    "latitude": 53.4071991,
+    "longitude": -2.99168,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f2"
+  },
+  "city": "CUA LO,VN",
+  "coordinates": {
+    "latitude": -15.634152,
+    "longitude": 20.5409573,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f3"
+  },
+  "city": "RIZHAO,CN",
+  "coordinates": {
+    "latitude": 35.4178833,
+    "longitude": 119.5213994,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f4"
+  },
+  "city": "UKRAINE",
+  "coordinates": {
+    "latitude": 49.4871968,
+    "longitude": 31.2718321,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f5"
+  },
+  "city": "QUETZAL,GT",
+  "coordinates": {
+    "latitude": 14.6458384,
+    "longitude": -90.4811651,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f6"
+  },
+  "city": "ST. PETERSBURG,RU,ST.PETERSBURG,RU",
+  "coordinates": {
+    "latitude": 59.938732,
+    "longitude": 30.316229,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f7"
+  },
+  "city": "DANGJIN,KR",
+  "coordinates": {
+    "latitude": 47.7313956,
+    "longitude": 9.6731601,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f8"
+  },
+  "city": "KAKINADA,IN",
+  "coordinates": {
+    "latitude": 16.9437385,
+    "longitude": 82.2350607,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799f9"
+  },
+  "city": "PORT HARCOURT,NG",
+  "coordinates": {
+    "latitude": 4.7676576,
+    "longitude": 7.0188527,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799fa"
+  },
+  "city": "AUSTRALIA",
+  "coordinates": {
+    "latitude": -24.7761086,
+    "longitude": 134.755,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799fb"
+  },
+  "city": "EAST AUSTRALIA",
+  "coordinates": {
+    "latitude": -38.0938176,
+    "longitude": 145.29780152265977,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799fc"
+  },
+  "city": "WEST AUSTRALIA",
+  "coordinates": {
+    "latitude": -35.9545315,
+    "longitude": 150.1587684,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799fd"
+  },
+  "city": "DAMIETTA,EG",
+  "coordinates": {
+    "latitude": 31.4167427,
+    "longitude": 31.8213657,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799fe"
+  },
+  "city": "KIJANG,ID",
+  "coordinates": {
+    "latitude": 4.91144345,
+    "longitude": 114.94608038692218,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c799ff"
+  },
+  "city": "CASABLANCA,MA",
+  "coordinates": {
+    "latitude": 33.5945144,
+    "longitude": -7.6200284,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a00"
+  },
+  "city": "PRAIA MOLE,BR",
+  "coordinates": {
+    "latitude": -27.60313285,
+    "longitude": -48.43333368307114,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a01"
+  },
+  "city": "DAKAR,SN",
+  "coordinates": {
+    "latitude": 14.7739251,
+    "longitude": -17.3873187,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a02"
+  },
+  "city": "SANTO TOMAS DE CASTILLA",
+  "coordinates": {
+    "latitude": 15.6866305,
+    "longitude": -88.6118496,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a03"
+  },
+  "city": "SINGAPORE",
+  "coordinates": {
+    "latitude": 1.357107,
+    "longitude": 103.8194992,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a04"
+  },
+  "city": "ALEXANDRIA",
+  "coordinates": {
+    "latitude": 43.9702236,
+    "longitude": 25.3288462,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a05"
+  },
+  "city": "DUMAI,ID",
+  "coordinates": {
+    "latitude": 1.6631967,
+    "longitude": 101.4470369,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a06"
+  },
+  "city": "INDIA",
+  "coordinates": {
+    "latitude": 22.3511148,
+    "longitude": 78.6677428,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a07"
+  },
+  "city": "SHIMIZU,JP",
+  "coordinates": {
+    "latitude": 33.8523861,
+    "longitude": 132.7730789,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a08"
+  },
+  "city": "INDONESIA",
+  "coordinates": {
+    "latitude": -2.4833826,
+    "longitude": 117.8902853,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a09"
+  },
+  "city": "SPAIN",
+  "coordinates": {
+    "latitude": 39.3260685,
+    "longitude": -4.8379791,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a0a"
+  },
+  "city": "ORTONA,IT",
+  "coordinates": {
+    "latitude": 42.349643,
+    "longitude": 14.403913,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a0b"
+  },
+  "city": "KANTANG,ID",
+  "coordinates": {
+    "latitude": -8.683124,
+    "longitude": 116.09410862002863,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a0c"
+  },
+  "city": "QASIM,PK",
+  "coordinates": {
+    "latitude": 35.9084706,
+    "longitude": 74.39080099497849,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a0d"
+  },
+  "city": "BIN QASIM,PK",
+  "coordinates": {
+    "latitude": 24.86073665,
+    "longitude": 67.05515493506189,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a0e"
+  },
+  "city": "HALDIA,IN",
+  "coordinates": {
+    "latitude": 22.028124,
+    "longitude": 88.0632655,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a0f"
+  },
+  "city": "RICHARDS BAY,ZA",
+  "coordinates": {
+    "latitude": -28.7707857,
+    "longitude": 32.0577775,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a10"
+  },
+  "city": "KUALA TANJUNG,ID",
+  "coordinates": {
+    "latitude": 3.3610689,
+    "longitude": 99.4484342,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a11"
+  },
+  "city": "NOUADHIBOU,MR",
+  "coordinates": {
+    "latitude": 20.9127045,
+    "longitude": -17.0503094,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a12"
+  },
+  "city": "JAPAN",
+  "coordinates": {
+    "latitude": 36.5748441,
+    "longitude": 139.2394179,
+    "source": "unknown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a13"
+  },
+  "city": "ECI/EAST COAST OF INDIA",
+  "coordinates": {
+    "latitude": 40.7883238,
+    "longitude": -86.76989469446818,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a14"
+  },
+  "city": "MURORAN,JP",
+  "coordinates": {
+    "latitude": 42.3152461,
+    "longitude": 140.9740731,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a15"
+  },
+  "city": "PG/P.G/PERSIAN GULF",
+  "coordinates": {
+    "latitude": 27.238125850000003,
+    "longitude": 51.197231065873154,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a16"
+  },
+  "city": "RECALADA,AR",
+  "coordinates": {
+    "latitude": -37.32751295,
+    "longitude": -57.020445300000006,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a17"
+  },
+  "city": "WEDA,ID",
+  "coordinates": {
+    "latitude": 0.3305053,
+    "longitude": 127.8689611,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a18"
+  },
+  "city": "ROSTOCK,DE",
+  "coordinates": {
+    "latitude": 54.0886707,
+    "longitude": 12.1400211,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a19"
+  },
+  "city": "NGHI SON,VN",
+  "coordinates": {
+    "latitude": 19.4507834,
+    "longitude": 105.7801293,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a1a"
+  },
+  "city": "BONTANG,ID",
+  "coordinates": {
+    "latitude": 0.1236548,
+    "longitude": 117.471708,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a1b"
+  },
+  "city": "PONTA DO UBU,BR",
+  "coordinates": {
+    "latitude": -20.7882834,
+    "longitude": -40.5716504,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a1c"
+  },
+  "city": "HAIPHONG,VN",
+  "coordinates": {
+    "latitude": 20.858864,
+    "longitude": 106.6749591,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a1d"
+  },
+  "city": "GIJON,ESP",
+  "coordinates": {
+    "latitude": 43.5449422,
+    "longitude": -5.66275,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a1e"
+  },
+  "city": "TOYOHASHI,JP",
+  "coordinates": {
+    "latitude": 34.769123,
+    "longitude": 137.391461,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a1f"
+  },
+  "city": "BUCHANAN,IT",
+  "coordinates": {
+    "latitude": 21.2866001,
+    "longitude": -100.5075009,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a20"
+  },
+  "city": "GODAU,VN,GO DAU,VN",
+  "coordinates": {
+    "latitude": 48.2863687,
+    "longitude": 18.7576403,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a21"
+  },
+  "city": "ALBANY,AU",
+  "coordinates": {
+    "latitude": -35.0247822,
+    "longitude": 117.883608,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a22"
+  },
+  "city": "EAST.SULAWESI,ID",
+  "coordinates": {
+    "latitude": -6.235537407155919,
+    "longitude": 106.91303801255268,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a23"
+  },
+  "city": "BLACK SEA",
+  "coordinates": {
+    "latitude": 43.87282395,
+    "longitude": 33.99380770501095,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a24"
+  },
+  "city": "BANDIRMA,TR",
+  "coordinates": {
+    "latitude": 40.3554705,
+    "longitude": 27.9697603,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a25"
+  },
+  "city": "DUNKIRK,FR",
+  "coordinates": {
+    "latitude": 51.0347708,
+    "longitude": 2.3772525,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a26"
+  },
+  "city": "QUANG NINH,VN",
+  "coordinates": {
+    "latitude": 21.1718046,
+    "longitude": 107.2012742,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a27"
+  },
+  "city": "TAICHUNG,TW,CN",
+  "coordinates": {
+    "latitude": 57.3547094,
+    "longitude": -4.6803041,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a28"
+  },
+  "city": "CHENNAI,IN",
+  "coordinates": {
+    "latitude": 13.0836939,
+    "longitude": 80.270186,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a29"
+  },
+  "city": "QINZHOU,CN",
+  "coordinates": {
+    "latitude": 34.5797531,
+    "longitude": 105.7062921,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a2a"
+  },
+  "city": "BUTTERWORTH,MY",
+  "coordinates": {
+    "latitude": 5.4082015,
+    "longitude": 100.3697208,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a2b"
+  },
+  "city": "FANGCHENG,CN",
+  "coordinates": {
+    "latitude": 33.2593594,
+    "longitude": 113.0001059,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a2c"
+  },
+  "city": "FUKUYAMA,JP,FUKUSHIMA,JP",
+  "coordinates": {
+    "latitude": 41.580133761001846,
+    "longitude": 140.2918399537292,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a2d"
+  },
+  "city": "DAMMAM,SA",
+  "coordinates": {
+    "latitude": 26.4367824,
+    "longitude": 50.1039991,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a2e"
+  },
+  "city": "DERINCE,TR",
+  "coordinates": {
+    "latitude": 40.757461,
+    "longitude": 29.8307537,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a2f"
+  },
+  "city": "MAKASSAR,ID",
+  "coordinates": {
+    "latitude": -5.1342962,
+    "longitude": 119.4124282,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a30"
+  },
+  "city": "GUANTA,VE",
+  "coordinates": {
+    "latitude": 10.233772,
+    "longitude": -64.5931668,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a31"
+  },
+  "city": "NEWCASTLE,AU",
+  "coordinates": {
+    "latitude": -32.9192953,
+    "longitude": 151.7795348,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a32"
+  },
+  "city": "CROATIA,HR",
+  "coordinates": {
+    "latitude": 45.3658443,
+    "longitude": 15.6575209,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a33"
+  },
+  "city": "TANJONG MANIS,MY",
+  "coordinates": {
+    "latitude": 2.1800914,
+    "longitude": 111.20472401142936,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a34"
+  },
+  "city": "MATANZAS,VE",
+  "coordinates": {
+    "latitude": 8.2728565,
+    "longitude": -62.8004338,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a35"
+  },
+  "city": "NEW MANGALORE,IN",
+  "coordinates": {
+    "latitude": 12.92982385,
+    "longitude": 74.82245358453802,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a36"
+  },
+  "city": "LIBYA ",
+  "coordinates": {
+    "latitude": 26.8234472,
+    "longitude": 18.1236723,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a37"
+  },
+  "city": "SOUTHEAST AISA",
+  "coordinates": {
+    "latitude": -22.73523515,
+    "longitude": -43.4345936,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a38"
+  },
+  "city": "CONSTANTZA,RO",
+  "coordinates": {
+    "latitude": 44.1767161,
+    "longitude": 28.6507598,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a39"
+  },
+  "city": "CARTIER,CA",
+  "coordinates": {
+    "latitude": 45.5600484,
+    "longitude": -73.68167341982041,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a3a"
+  },
+  "city": "SAMSUN,TR",
+  "coordinates": {
+    "latitude": 41.2303557,
+    "longitude": 35.9683338,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a3b"
+  },
+  "city": "SOHAR,OM",
+  "coordinates": {
+    "latitude": 24.3445577,
+    "longitude": 56.7424766,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a3c"
+  },
+  "city": "SANTANA,BR",
+  "coordinates": {
+    "latitude": -12.979217,
+    "longitude": -44.05064,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a3d"
+  },
+  "city": "HON GAI,VN",
+  "coordinates": {
+    "latitude": 20.9528365,
+    "longitude": 107.0800003,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a3e"
+  },
+  "city": "SURAT THANI,TH",
+  "coordinates": {
+    "latitude": 9.4674663,
+    "longitude": 98.830042,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a3f"
+  },
+  "city": "KLAIPEDA,LT",
+  "coordinates": {
+    "latitude": 55.7127529,
+    "longitude": 21.1350469,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a40"
+  },
+  "city": "VERA CRUZ,MX",
+  "coordinates": {
+    "latitude": 19.43683295,
+    "longitude": -99.14238100453721,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a41"
+  },
+  "city": "MOROWALI,ID",
+  "coordinates": {
+    "latitude": -2.7151483499999998,
+    "longitude": 121.8824104360655,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a42"
+  },
+  "city": "CONSTANTA,RO",
+  "coordinates": {
+    "latitude": 44.1767161,
+    "longitude": 28.6507598,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a43"
+  },
+  "city": "JORF LASFAR,MA",
+  "coordinates": {
+    "latitude": 33.1100029,
+    "longitude": -8.63114683626699,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a44"
+  },
+  "city": "SULINA,ESP,SULINA,RO",
+  "coordinates": {
+    "latitude": 45.15541425,
+    "longitude": 29.652728883222483,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a45"
+  },
+  "city": "LABUA,MY",
+  "coordinates": {
+    "latitude": 6.123383246849149,
+    "longitude": 100.97585867203075,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a46"
+  },
+  "city": "PHUMY,VN",
+  "coordinates": {
+    "latitude": 11.5533156,
+    "longitude": 104.8843867,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a47"
+  },
+  "city": "MAPUTO,MZ",
+  "coordinates": {
+    "latitude": -25.966213,
+    "longitude": 32.56745,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a48"
+  },
+  "city": "TRABZON,TR",
+  "coordinates": {
+    "latitude": 41.0054605,
+    "longitude": 39.7301463,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a49"
+  },
+  "city": "IZMAIL,UA",
+  "coordinates": {
+    "latitude": 45.3511307,
+    "longitude": 28.8361514,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a4a"
+  },
+  "city": "YINGKOU,CN",
+  "coordinates": {
+    "latitude": 40.6747155,
+    "longitude": 122.2357736,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a4b"
+  },
+  "city": "KWANGYANG,KR",
+  "coordinates": {
+    "latitude": 34.9405265,
+    "longitude": 127.6941961,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a4c"
+  },
+  "city": "LONG BEACH, USA",
+  "coordinates": {
+    "latitude": 33.7690164,
+    "longitude": -118.191604,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a4d"
+  },
+  "city": "TABONEO,ID",
+  "coordinates": {
+    "latitude": -20.07935665,
+    "longitude": -51.10342647174894,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a4e"
+  },
+  "city": "NINGDE,CN",
+  "coordinates": {
+    "latitude": 27.0143281,
+    "longitude": 119.4385501,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a4f"
+  },
+  "city": "BUSAN,KR",
+  "coordinates": {
+    "latitude": 35.1799528,
+    "longitude": 129.0752365,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a50"
+  },
+  "city": "TEMA,GH",
+  "coordinates": {
+    "latitude": 5.6596441,
+    "longitude": -0.0096592,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a51"
+  },
+  "city": "CARTAGENA,CO",
+  "coordinates": {
+    "latitude": 10.4265566,
+    "longitude": -75.5441671,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a52"
+  },
+  "city": "RAS LAFFAN,QA",
+  "coordinates": {
+    "latitude": 25.8976567,
+    "longitude": 51.5331527,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a53"
+  },
+  "city": "NORFOLK PIER 6,USA",
+  "coordinates": {
+    "latitude": 52.5708633,
+    "longitude": 1.732179288738259,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a54"
+  },
+  "city": "GHENT,BE",
+  "coordinates": {
+    "latitude": 51.0538286,
+    "longitude": 3.7250121,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a55"
+  },
+  "city": "DALRYMPLE BAY COAL TERMINAL(DBCT),AU",
+  "coordinates": {
+    "latitude": -21.28442275,
+    "longitude": 149.28379159726728,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a56"
+  },
+  "city": "TUAPSE,RU",
+  "coordinates": {
+    "latitude": 44.0984747,
+    "longitude": 39.0718875,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a57"
+  },
+  "city": "TARRAGONA,JP,TARRAGONA,ESP",
+  "coordinates": {
+    "latitude": 41.1544276,
+    "longitude": 1.1073957,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a58"
+  },
+  "city": "KUROSAKI,JP",
+  "coordinates": {
+    "latitude": 33.8665694,
+    "longitude": 130.7644594,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a59"
+  },
+  "city": "SULAWESI,ID",
+  "coordinates": {
+    "latitude": -1.0074826,
+    "longitude": 121.47984106635917,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a5a"
+  },
+  "city": "GLYFADA,GR",
+  "coordinates": {
+    "latitude": 37.8615966,
+    "longitude": 23.7545902,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a5b"
+  },
+  "city": "MAURA BERAU,ID",
+  "coordinates": {
+    "latitude": 30.94058655,
+    "longitude": -9.578981224389908,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a5c"
+  },
+  "city": "USTLUGA,RU",
+  "coordinates": {
+    "latitude": 13.355714,
+    "longitude": -88.4294394,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a5d"
+  },
+  "city": "RENI,AU",
+  "coordinates": {
+    "latitude": -33.9105235,
+    "longitude": 151.2057112529434,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a5e"
+  },
+  "city": "RAVENNA,IT",
+  "coordinates": {
+    "latitude": 44.364060699999996,
+    "longitude": 12.059009490863945,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a5f"
+  },
+  "city": "ALSANCAK,TR",
+  "coordinates": {
+    "latitude": 38.4391964,
+    "longitude": 27.1437836,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a60"
+  },
+  "city": "JEBEL ALI,UAE",
+  "coordinates": {
+    "latitude": 24.9775987,
+    "longitude": 55.0910742,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a61"
+  },
+  "city": "POSO, SULAWESI,ID",
+  "coordinates": {
+    "latitude": -1.6568513,
+    "longitude": 120.5421575,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a62"
+  },
+  "city": "SFAX,TN",
+  "coordinates": {
+    "latitude": 34.7394361,
+    "longitude": 10.7604024,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a63"
+  },
+  "city": "CANADA,CA",
+  "coordinates": {
+    "latitude": 61.0666922,
+    "longitude": -107.991707,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a64"
+  },
+  "city": "MASAN,KR",
+  "coordinates": {
+    "latitude": 35.2363635,
+    "longitude": 128.576728,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a65"
+  },
+  "city": "DHAMRA,IN",
+  "coordinates": {
+    "latitude": 20.7955666,
+    "longitude": 86.9010186,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a66"
+  },
+  "city": "HAZIRA,IN",
+  "coordinates": {
+    "latitude": 21.0956055,
+    "longitude": 72.6466021,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a67"
+  },
+  "city": "DUBAI,UAE",
+  "coordinates": {
+    "latitude": 25.074282349999997,
+    "longitude": 55.18853865430702,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a68"
+  },
+  "city": "TALCAHUANO,CL",
+  "coordinates": {
+    "latitude": -36.7144863,
+    "longitude": -73.1141087,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a69"
+  },
+  "city": "ITALIAN ADRIATIC",
+  "coordinates": {
+    "latitude": 30.0374578,
+    "longitude": -95.60280464854958,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a6a"
+  },
+  "city": "WCCA/WEST COAST OF CANADA,WEST,CANADA",
+  "coordinates": {
+    "latitude": 50.062736,
+    "longitude": -98.2856128,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a6b"
+  },
+  "city": "LUBUK GAUNG,ID",
+  "coordinates": {
+    "latitude": -2.0670903,
+    "longitude": 102.2146162,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a6c"
+  },
+  "city": "CANAKKALE,TR",
+  "coordinates": {
+    "latitude": 40.0549886,
+    "longitude": 26.9278292,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a6d"
+  },
+  "city": "MESAIEED,QA",
+  "coordinates": {
+    "latitude": 24.9953944,
+    "longitude": 51.5493583,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a6e"
+  },
+  "city": "VLADIVOSTOK,RU",
+  "coordinates": {
+    "latitude": 43.1150678,
+    "longitude": 131.8855768,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a6f"
+  },
+  "city": "DIPOLOG,PH",
+  "coordinates": {
+    "latitude": 8.5864062,
+    "longitude": 123.3449371,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a70"
+  },
+  "city": "SAN PEDRO SULA,HN",
+  "coordinates": {
+    "latitude": 15.5062156,
+    "longitude": -88.0248937,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a71"
+  },
+  "city": "GUANZHOU,CN",
+  "coordinates": {
+    "latitude": 23.0693127,
+    "longitude": 113.3708864,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a72"
+  },
+  "city": "BASRA,IQ",
+  "coordinates": {
+    "latitude": 30.4952371,
+    "longitude": 47.8090981,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a73"
+  },
+  "city": "SOUTH,VIETNAM",
+  "coordinates": {
+    "latitude": -30.5160209,
+    "longitude": 151.6652432,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a74"
+  },
+  "city": "TURKEY",
+  "coordinates": {
+    "latitude": 39.294076,
+    "longitude": 35.2316631,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a75"
+  },
+  "city": "JAMBI,ID",
+  "coordinates": {
+    "latitude": -1.6394711,
+    "longitude": 102.94542640112506,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a76"
+  },
+  "city": "EL ARISH,EG",
+  "coordinates": {
+    "latitude": 31.123641,
+    "longitude": 33.7983521,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a77"
+  },
+  "city": "ABBOT POINT,AU",
+  "coordinates": {
+    "latitude": -19.882303,
+    "longitude": 148.0794772,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a78"
+  },
+  "city": "ACU,BR",
+  "coordinates": {
+    "latitude": -3.3537861,
+    "longitude": -60.4483111,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a79"
+  },
+  "city": "SEMARANG,ID",
+  "coordinates": {
+    "latitude": -6.9903988,
+    "longitude": 110.4229104,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a7a"
+  },
+  "city": "SURABAYA,ID",
+  "coordinates": {
+    "latitude": -7.2459717,
+    "longitude": 112.7378266,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a7b"
+  },
+  "city": "SLAVYANKA,RU",
+  "coordinates": {
+    "latitude": 42.8606833,
+    "longitude": 131.3924115,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a7c"
+  },
+  "city": "LUMUT,MY",
+  "coordinates": {
+    "latitude": 4.2246469,
+    "longitude": 100.6211525,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a7d"
+  },
+  "city": "SOUTH AFRICA",
+  "coordinates": {
+    "latitude": -28.8166236,
+    "longitude": 24.991639,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a7e"
+  },
+  "city": "SAINT PETERSBURG,RU",
+  "coordinates": {
+    "latitude": 59.9606739,
+    "longitude": 30.1586551,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a7f"
+  },
+  "city": "ZHENJIANG,CN",
+  "coordinates": {
+    "latitude": 32.1891959,
+    "longitude": 119.4200069,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a80"
+  },
+  "city": "VUNGTAU,VN",
+  "coordinates": {
+    "latitude": 10.3486485,
+    "longitude": 107.0765028,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a81"
+  },
+  "city": "PARAMARIBO,PA",
+  "coordinates": {
+    "latitude": -18.48460378704048,
+    "longitude": -70.29122061289924,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a82"
+  },
+  "city": "NOVOROSSISK,RU,NOVOROSSIYSK,RU",
+  "coordinates": {
+    "latitude": 44.723468,
+    "longitude": 37.7637209,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a83"
+  },
+  "city": "FAR EAST",
+  "coordinates": {
+    "latitude": 7.0019921499999995,
+    "longitude": -9.468319968215628,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a84"
+  },
+  "city": "PARADIP,IN",
+  "coordinates": {
+    "latitude": 20.286946049999997,
+    "longitude": 86.67399790661415,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a85"
+  },
+  "city": "VUNG TAU,VN",
+  "coordinates": {
+    "latitude": 10.3486485,
+    "longitude": 107.0765028,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a86"
+  },
+  "city": "DUQM,OM",
+  "coordinates": {
+    "latitude": 19.6204464,
+    "longitude": 57.6350887,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a87"
+  },
+  "city": "SOUTHEAST ASIA",
+  "coordinates": {
+    "latitude": -8.7287308,
+    "longitude": 115.2365646,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a88"
+  },
+  "city": "CAOFEIDIAN,CN",
+  "coordinates": {
+    "latitude": 39.1930418,
+    "longitude": 118.4504956,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a89"
+  },
+  "city": "WEST MED",
+  "coordinates": {
+    "latitude": -33.8997859,
+    "longitude": 18.634095391052192,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a8a"
+  },
+  "city": "PARANAGUA,BR",
+  "coordinates": {
+    "latitude": -25.5148822,
+    "longitude": -48.5226695,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a8b"
+  },
+  "city": "VITORIA,ESP",
+  "coordinates": {
+    "latitude": -37.86719595421557,
+    "longitude": 144.89258416988653,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a8c"
+  },
+  "city": "PORT KELANG,MY,PORT OF KELANG,MY",
+  "coordinates": {
+    "latitude": 2.9996963,
+    "longitude": 101.39135887353731,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a8d"
+  },
+  "city": "PORT KELANG,PORT KELANG,MY",
+  "coordinates": {
+    "latitude": 2.9996963,
+    "longitude": 101.39135887353731,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a8e"
+  },
+  "city": "PLASTUN,RU",
+  "coordinates": {
+    "latitude": 44.7589818,
+    "longitude": 136.286381,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a8f"
+  },
+  "city": "SAN NICOLAS,AR",
+  "coordinates": {
+    "latitude": -33.3277089,
+    "longitude": -60.2165909,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a90"
+  },
+  "city": "PIVDENNYI,UA",
+  "coordinates": {
+    "latitude": 49.4319625,
+    "longitude": 32.0220704,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a91"
+  },
+  "city": "DURRIE,AU",
+  "coordinates": {
+    "latitude": -27.58965235,
+    "longitude": 152.97774075,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a92"
+  },
+  "city": "CASTELLON,CASTELLON,ESP",
+  "coordinates": {
+    "latitude": 40.25185675,
+    "longitude": -0.06150521083301791,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a93"
+  },
+  "city": "TAMAN,RU",
+  "coordinates": {
+    "latitude": 45.2158646,
+    "longitude": 36.7191326,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a94"
+  },
+  "city": "GIURGIULESTI,MD,GIURGIULESHTI,RO",
+  "coordinates": {
+    "latitude": 45.4825418,
+    "longitude": 28.1981804,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a95"
+  },
+  "city": "PENANG,MY",
+  "coordinates": {
+    "latitude": 5.4065013,
+    "longitude": 100.2559077,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a96"
+  },
+  "city": "TOMAKOMAI,JP",
+  "coordinates": {
+    "latitude": 42.6389087,
+    "longitude": 141.6116456,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a97"
+  },
+  "city": "KUNSAN,KR",
+  "coordinates": {
+    "latitude": 35.9679984,
+    "longitude": 126.7369036,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a98"
+  },
+  "city": "PNG",
+  "coordinates": {
+    "latitude": 5.4065013,
+    "longitude": 100.2559077,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a99"
+  },
+  "city": "PHILIPPINES",
+  "coordinates": {
+    "latitude": 12.7503486,
+    "longitude": 122.7312101,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a9a"
+  },
+  "city": "SERUI,ID",
+  "coordinates": {
+    "latitude": -1.8816647,
+    "longitude": 136.2405546,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a9b"
+  },
+  "city": "KATTUPALLI,IN",
+  "coordinates": {
+    "latitude": 13.3120155,
+    "longitude": 80.34508656224804,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a9c"
+  },
+  "city": "MINA SAQAR,UAE",
+  "coordinates": {
+    "latitude": -19.8900372,
+    "longitude": -43.8107916,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a9d"
+  },
+  "city": "KOLKATA,IN",
+  "coordinates": {
+    "latitude": 22.5726459,
+    "longitude": 88.3638953,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a9e"
+  },
+  "city": "MINA SAQR",
+  "coordinates": {
+    "latitude": 25.974064,
+    "longitude": 56.0504069,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79a9f"
+  },
+  "city": "ARCELONA,ESP",
+  "coordinates": {
+    "latitude": 42.326453,
+    "longitude": -4.5055034,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa0"
+  },
+  "city": "MINA ZAYED,UAE",
+  "coordinates": {
+    "latitude": 24.5279708,
+    "longitude": 54.37605740080314,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa1"
+  },
+  "city": "XINGANG,CN",
+  "coordinates": {
+    "latitude": 30.2198681,
+    "longitude": 120.4042341,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa2"
+  },
+  "city": "KHANOM,TH",
+  "coordinates": {
+    "latitude": 9.2148797,
+    "longitude": 99.8603545,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa3"
+  },
+  "city": "ARGENTINA",
+  "coordinates": {
+    "latitude": -34.9964963,
+    "longitude": -64.9672817,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa4"
+  },
+  "city": "YANTAI,CN",
+  "coordinates": {
+    "latitude": 37.461928,
+    "longitude": 121.4425255,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa5"
+  },
+  "city": "TIESHAN,CN",
+  "coordinates": {
+    "latitude": 30.2056586,
+    "longitude": 114.8865998,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa6"
+  },
+  "city": "DONGHAE,KR",
+  "coordinates": {
+    "latitude": 37.5245142,
+    "longitude": 129.1146302,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa7"
+  },
+  "city": "OKI,JP",
+  "coordinates": {
+    "latitude": 33.2142786,
+    "longitude": 130.4405376,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa8"
+  },
+  "city": "PANJANG,ID",
+  "coordinates": {
+    "latitude": 3.17203,
+    "longitude": 99.5283163,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aa9"
+  },
+  "city": "SALALAH",
+  "coordinates": {
+    "latitude": 17.0174945,
+    "longitude": 54.1010923,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aaa"
+  },
+  "city": "DAVAO,PH",
+  "coordinates": {
+    "latitude": 7.0648306,
+    "longitude": 125.6080623,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aab"
+  },
+  "city": "TAWAU,MY",
+  "coordinates": {
+    "latitude": 4.2435206,
+    "longitude": 117.885331,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aac"
+  },
+  "city": "ULSAN,KR",
+  "coordinates": {
+    "latitude": 35.5391697,
+    "longitude": 129.3119136,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aad"
+  },
+  "city": "NOVOROSSISK,RU",
+  "coordinates": {
+    "latitude": 44.7239578,
+    "longitude": 37.7690711,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aae"
+  },
+  "city": "ADELAIDE,AU",
+  "coordinates": {
+    "latitude": -34.9281805,
+    "longitude": 138.5999312,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aaf"
+  },
+  "city": "GDYNIA",
+  "coordinates": {
+    "latitude": 54.52333035,
+    "longitude": 18.604027892041863,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab0"
+  },
+  "city": "ALIAGA,TR",
+  "coordinates": {
+    "latitude": 38.8017371,
+    "longitude": 26.9734041,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab1"
+  },
+  "city": "BUCHANAN,LR",
+  "coordinates": {
+    "latitude": 5.88129,
+    "longitude": -10.0494002,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab2"
+  },
+  "city": "CIVITAVECCHIA,IT",
+  "coordinates": {
+    "latitude": 42.0937524,
+    "longitude": 11.7922462,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab3"
+  },
+  "city": "TUNISIA",
+  "coordinates": {
+    "latitude": 36.8002068,
+    "longitude": 10.1857757,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab4"
+  },
+  "city": "JOSSINGFJORD,NO",
+  "coordinates": {
+    "latitude": 58.3176056,
+    "longitude": 6.3443502,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab5"
+  },
+  "city": "PORI TAHKOLUOTO,FI",
+  "coordinates": {
+    "latitude": 61.635254700000004,
+    "longitude": 21.403574644378708,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab6"
+  },
+  "city": "NACALA,MZ",
+  "coordinates": {
+    "latitude": -14.5583059,
+    "longitude": 40.6863816,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab7"
+  },
+  "city": "MARMARA,TR",
+  "coordinates": {
+    "latitude": 40.6212433,
+    "longitude": 27.6184464,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab8"
+  },
+  "city": "TAGANROG,RU",
+  "coordinates": {
+    "latitude": 47.2392184,
+    "longitude": 38.87550310009352,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ab9"
+  },
+  "city": "OWENDO,GA",
+  "coordinates": {
+    "latitude": 0.3208235,
+    "longitude": 9.4952738,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aba"
+  },
+  "city": "HEREKE,TR",
+  "coordinates": {
+    "latitude": 40.908127,
+    "longitude": 27.095015,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79abb"
+  },
+  "city": "QUELIMANE,MZ",
+  "coordinates": {
+    "latitude": -17.87751,
+    "longitude": 36.890216,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79abc"
+  },
+  "city": "NARVIK,NO",
+  "coordinates": {
+    "latitude": 68.4383796,
+    "longitude": 17.4271978,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79abd"
+  },
+  "city": "MEULABOH",
+  "coordinates": {
+    "latitude": 4.1481951,
+    "longitude": 96.1339107,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79abe"
+  },
+  "city": "SANTANDER,ESP",
+  "coordinates": {
+    "latitude": 41.0085997,
+    "longitude": -8.6448989,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79abf"
+  },
+  "city": "SAGUNTO,ESP",
+  "coordinates": {
+    "latitude": 39.6792916,
+    "longitude": -0.2786451,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac0"
+  },
+  "city": "AVEIRO,PT",
+  "coordinates": {
+    "latitude": 40.640496,
+    "longitude": -8.6537841,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac1"
+  },
+  "city": "AVILES,ES",
+  "coordinates": {
+    "latitude": 43.5554436,
+    "longitude": -5.9222466,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac2"
+  },
+  "city": "CADIZ,ESP",
+  "coordinates": {
+    "latitude": 36.5297438,
+    "longitude": -6.2928976,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac3"
+  },
+  "city": "ISTANBUL,TR",
+  "coordinates": {
+    "latitude": 41.006381,
+    "longitude": 28.9758715,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac4"
+  },
+  "city": "MTWARA,TZ",
+  "coordinates": {
+    "latitude": -10.6990264,
+    "longitude": 39.0217984,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac5"
+  },
+  "city": "KEMBLA,AU",
+  "coordinates": {
+    "latitude": -32.0677876,
+    "longitude": 149.1181815,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac6"
+  },
+  "city": "LHOKSEUMAWE,ID",
+  "coordinates": {
+    "latitude": 5.1789659,
+    "longitude": 97.1480544,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac7"
+  },
+  "city": "CHU LAI,VN",
+  "coordinates": {
+    "latitude": 15.99267826706584,
+    "longitude": 108.25567983771961,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac8"
+  },
+  "city": "VIGO,ESP",
+  "coordinates": {
+    "latitude": 42.2376602,
+    "longitude": -8.7247205,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ac9"
+  },
+  "city": "GDANSK,PL",
+  "coordinates": {
+    "latitude": 54.42880315,
+    "longitude": 18.79832701217957,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aca"
+  },
+  "city": "ROCKY POINT,MX",
+  "coordinates": {
+    "latitude": 31.530171799999998,
+    "longitude": -113.38971892127962,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79acb"
+  },
+  "city": "CALETA PATILLOS,CL",
+  "coordinates": {
+    "latitude": -20.7377732,
+    "longitude": -70.190921,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79acc"
+  },
+  "city": "SAFI,MA",
+  "coordinates": {
+    "latitude": 32.299424,
+    "longitude": -9.239533,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79acd"
+  },
+  "city": "MOROCCO",
+  "coordinates": {
+    "latitude": 28.3347722,
+    "longitude": -10.371337908392647,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ace"
+  },
+  "city": "ARZEW,AR",
+  "coordinates": {
+    "latitude": 46.21359098867957,
+    "longitude": -0.885282602147798,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79acf"
+  },
+  "city": "VARNA,BG",
+  "coordinates": {
+    "latitude": 43.2052135,
+    "longitude": 27.860202452255194,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad0"
+  },
+  "city": "AL ADABIYAH,SA",
+  "coordinates": {
+    "latitude": 29.9007515,
+    "longitude": 32.4569409,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad1"
+  },
+  "city": "SHUWAIKH,KW",
+  "coordinates": {
+    "latitude": 29.3544104,
+    "longitude": 47.9563788,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad2"
+  },
+  "city": "KENDARI,ID",
+  "coordinates": {
+    "latitude": -3.9918068,
+    "longitude": 122.5180066,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad3"
+  },
+  "city": "HOUSTON,US",
+  "coordinates": {
+    "latitude": 29.7589382,
+    "longitude": -95.3676974,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad4"
+  },
+  "city": "ABU QIR,EG",
+  "coordinates": {
+    "latitude": 31.3203016,
+    "longitude": 30.0641979,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad5"
+  },
+  "city": "BARCELLONA,IT",
+  "coordinates": {
+    "latitude": 38.1483059,
+    "longitude": 15.2175523,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad6"
+  },
+  "city": "WEIFANG,CN",
+  "coordinates": {
+    "latitude": 36.6706921,
+    "longitude": 119.08822986026206,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad7"
+  },
+  "city": "PORT CARTIER,CA",
+  "coordinates": {
+    "latitude": 50.0187481,
+    "longitude": -66.8756913,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad8"
+  },
+  "city": "NOPAC/North Ocean Pa",
+  "coordinates": {
+    "latitude": 30,
+    "longitude": -170,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ad9"
+  },
+  "city": "YEOSU,KR",
+  "coordinates": {
+    "latitude": 15.8422728,
+    "longitude": 80.8757418,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ada"
+  },
+  "city": "INCHEON,KR",
+  "coordinates": {
+    "latitude": 37.4463775,
+    "longitude": 126.7012014,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79adb"
+  },
+  "city": "LA PALLICE",
+  "coordinates": {
+    "latitude": 46.15886425,
+    "longitude": -1.209366479625995,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79adc"
+  },
+  "city": "JURONG,SGP",
+  "coordinates": {
+    "latitude": 1.33336195,
+    "longitude": 103.71945924031652,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79add"
+  },
+  "city": "AL ARISH CEMENT,SM",
+  "coordinates": {
+    "latitude": 42.382118500000004,
+    "longitude": 1.6203926000000033,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ade"
+  },
+  "city": "NEMRUT BAY,TR",
+  "coordinates": {
+    "latitude": 41.0668677,
+    "longitude": 28.0815629,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79adf"
+  },
+  "city": "VIETNAM",
+  "coordinates": {
+    "latitude": 15.9266657,
+    "longitude": 107.9650855,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae0"
+  },
+  "city": "LAIZHOU,CN",
+  "coordinates": {
+    "latitude": 33.8196115,
+    "longitude": 2.872216379883427,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae1"
+  },
+  "city": "ODESA,UA",
+  "coordinates": {
+    "latitude": 46.4622762,
+    "longitude": 29.0254913,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae2"
+  },
+  "city": "YUZHNY,UA",
+  "coordinates": {
+    "latitude": 16.8628883,
+    "longitude": 96.1066727,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae3"
+  },
+  "city": "GREECE",
+  "coordinates": {
+    "latitude": 38.9953683,
+    "longitude": 21.9877132,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae4"
+  },
+  "city": "TURKISH,TR,TURKISH",
+  "coordinates": {
+    "latitude": 29.594489,
+    "longitude": -98.263882,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae5"
+  },
+  "city": "ANTWERP,BE",
+  "coordinates": {
+    "latitude": 51.2211097,
+    "longitude": 4.3997081,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae6"
+  },
+  "city": "UAE,AE",
+  "coordinates": {
+    "latitude": 17.3912708,
+    "longitude": -89.6294686,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae7"
+  },
+  "city": "ANNABA,DZ",
+  "coordinates": {
+    "latitude": 36.8961224,
+    "longitude": 7.7252023,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae8"
+  },
+  "city": "MOMBASA,KE",
+  "coordinates": {
+    "latitude": -4.05052,
+    "longitude": 39.667169,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79ae9"
+  },
+  "city": "CAI LAN,VN",
+  "coordinates": {
+    "latitude": 44.6360817,
+    "longitude": -0.3173533,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aea"
+  },
+  "city": "TARANTO,IT",
+  "coordinates": {
+    "latitude": 40.4712427,
+    "longitude": 17.2432278,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aeb"
+  },
+  "city": "GABES,TN",
+  "coordinates": {
+    "latitude": 50.8739783,
+    "longitude": 0.5739132,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aec"
+  },
+  "city": "MONROVIA,LR",
+  "coordinates": {
+    "latitude": 6.2651141,
+    "longitude": -10.7044603,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aed"
+  },
+  "city": "ABU DHABI,UAE",
+  "coordinates": {
+    "latitude": 24.45656925,
+    "longitude": 54.33751004324296,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aee"
+  },
+  "city": "MARMARA IS,TR",
+  "coordinates": {
+    "latitude": 40.996114399999996,
+    "longitude": 29.019072281163986,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aef"
+  },
+  "city": "EAST MED",
+  "coordinates": {
+    "latitude": 51.398123549999994,
+    "longitude": 0.5549979096984687,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af0"
+  },
+  "city": "RED SEA",
+  "coordinates": {
+    "latitude": 28.5083673,
+    "longitude": 33.1280457,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af1"
+  },
+  "city": "TIANJIN,CN",
+  "coordinates": {
+    "latitude": 39.116842500000004,
+    "longitude": 117.53250762043183,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af2"
+  },
+  "city": "DRACHTEN,NL",
+  "coordinates": {
+    "latitude": 53.0962877,
+    "longitude": 6.1057891,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af3"
+  },
+  "city": "ROTTERDAM,NL",
+  "coordinates": {
+    "latitude": 52.0040343,
+    "longitude": 4.7077219,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af4"
+  },
+  "city": "NAGOYA,JP",
+  "coordinates": {
+    "latitude": 35.16336835,
+    "longitude": 136.8975420435683,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af5"
+  },
+  "city": "PORT KELANG,MY",
+  "coordinates": {
+    "latitude": 2.4620718,
+    "longitude": 101.8528949,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af6"
+  },
+  "city": "NOVOROSSIYSK,RU,NOVOROSSISK,RU",
+  "coordinates": {
+    "latitude": 44.7239578,
+    "longitude": 37.7690711,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af7"
+  },
+  "city": "NIIGATA,JP",
+  "coordinates": {
+    "latitude": 37.914631,
+    "longitude": 139.05398845703448,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af8"
+  },
+  "city": "PASAJES,ESP",
+  "coordinates": {
+    "latitude": 42.7301868,
+    "longitude": -1.540786,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79af9"
+  },
+  "city": "TERNEUZEN,NL",
+  "coordinates": {
+    "latitude": 51.2806213,
+    "longitude": 3.8351981,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79afa"
+  },
+  "city": "ISDEMIR,TR",
+  "coordinates": {
+    "latitude": 36.7239437,
+    "longitude": 36.21345355,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79afb"
+  },
+  "city": "SAMARINDA,ID",
+  "coordinates": {
+    "latitude": -0.5187564,
+    "longitude": 117.1494376,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79afc"
+  },
+  "city": "ASHDOD,IL",
+  "coordinates": {
+    "latitude": 31.7882789,
+    "longitude": 34.6429452047619,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79afd"
+  },
+  "city": "SALERNO,IT",
+  "coordinates": {
+    "latitude": 40.6803601,
+    "longitude": 14.7594542,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79afe"
+  },
+  "city": "NORTH,FRANCE",
+  "coordinates": {
+    "latitude": 49.154641,
+    "longitude": 6.432372,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79aff"
+  },
+  "city": "GEORGETOWN,GY",
+  "coordinates": {
+    "latitude": 6.8091752,
+    "longitude": -58.1137297,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b00"
+  },
+  "city": "ARAG,UK",
+  "coordinates": {
+    "latitude": 4.213464800000001,
+    "longitude": 72.86571178533075,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b01"
+  },
+  "city": "SOUSSE,TN",
+  "coordinates": {
+    "latitude": 29.703794,
+    "longitude": -9.27362,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b02"
+  },
+  "city": "TRINCOMALEE",
+  "coordinates": {
+    "latitude": 8.576425,
+    "longitude": 81.2344952,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b03"
+  },
+  "city": "LOME,TG",
+  "coordinates": {
+    "latitude": 6.1669291,
+    "longitude": 1.2297967,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b04"
+  },
+  "city": "IRAN",
+  "coordinates": {
+    "latitude": 32.6475314,
+    "longitude": 54.5643516,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b05"
+  },
+  "city": "SULB WHARF,BH",
+  "coordinates": {
+    "latitude": 50.734389,
+    "longitude": -1.9293152,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b06"
+  },
+  "city": "XIAMEN,CN",
+  "coordinates": {
+    "latitude": 24.5335165,
+    "longitude": 118.1803706,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b07"
+  },
+  "city": "BULGARIA",
+  "coordinates": {
+    "latitude": 42.6073975,
+    "longitude": 25.4856617,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b08"
+  },
+  "city": "GRESIK,ID",
+  "coordinates": {
+    "latitude": -5.79334655,
+    "longitude": 112.6598223201143,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b09"
+  },
+  "city": "KHOR FAKKAN,UAE",
+  "coordinates": {
+    "latitude": 25.3491721,
+    "longitude": 56.3478105,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b0a"
+  },
+  "city": "JINGTANG,CN",
+  "coordinates": {
+    "latitude": 31.3409049,
+    "longitude": 119.6772133,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b0b"
+  },
+  "city": "ADRIATIC SEA",
+  "coordinates": {
+    "latitude": 43.7021514,
+    "longitude": 14.6679465,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b0c"
+  },
+  "city": "TOBATA,JP",
+  "coordinates": {
+    "latitude": 33.8972177,
+    "longitude": 130.8206112,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b0d"
+  },
+  "city": "WEST,ITALY",
+  "coordinates": {
+    "latitude": 51.6858239,
+    "longitude": 5.2897834,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b0e"
+  },
+  "city": "DOUALA,CM",
+  "coordinates": {
+    "latitude": 4.0727759500000005,
+    "longitude": 9.669595435871969,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b0f"
+  },
+  "city": "KRISHNAPATNAM,IN",
+  "coordinates": {
+    "latitude": 14.2592415,
+    "longitude": 80.0564758,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b10"
+  },
+  "city": "CIGADING,ID",
+  "coordinates": {
+    "latitude": -6.0209334,
+    "longitude": 105.9663928,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b11"
+  },
+  "city": "CAGAYAN DE ORO,PH",
+  "coordinates": {
+    "latitude": 8.4756417,
+    "longitude": 124.6421532,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b12"
+  },
+  "city": "AMSTERDA,NL",
+  "coordinates": {
+    "latitude": 52.3730796,
+    "longitude": 4.8924534,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b13"
+  },
+  "city": "SKIKDA,DZ",
+  "coordinates": {
+    "latitude": 36.8801317,
+    "longitude": 6.9077363,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b14"
+  },
+  "city": "SHIDAO,CN",
+  "coordinates": {
+    "latitude": 34.3652,
+    "longitude": 112.879,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b15"
+  },
+  "city": "ONNE,NG",
+  "coordinates": {
+    "latitude": 4.7249847,
+    "longitude": 7.1524345,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b16"
+  },
+  "city": "BUENAVENTURA,CO",
+  "coordinates": {
+    "latitude": 3.8881929,
+    "longitude": -77.0738324,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b17"
+  },
+  "city": "FAIRLESS HILLS,PA",
+  "coordinates": {
+    "latitude": 40.178141999999994,
+    "longitude": -74.85644459402147,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b18"
+  },
+  "city": "EAST,GREECE",
+  "coordinates": {
+    "latitude": 40.851966,
+    "longitude": 25.82914,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b19"
+  },
+  "city": "CARONTE,IT",
+  "coordinates": {
+    "latitude": 41.6383342,
+    "longitude": 13.7077616,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b1a"
+  },
+  "city": "KAMPOT,KH",
+  "coordinates": {
+    "latitude": 10.6314754,
+    "longitude": 104.132637,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b1b"
+  },
+  "city": "PORT SAID,EG",
+  "coordinates": {
+    "latitude": 31.263235,
+    "longitude": 32.305505,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b1c"
+  },
+  "city": "COATZACOALCOS,MX",
+  "coordinates": {
+    "latitude": 18.1405019,
+    "longitude": -94.4344003,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b1d"
+  },
+  "city": "LONG AN,VN",
+  "coordinates": {
+    "latitude": 10.6983968,
+    "longitude": 106.1883517,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b1e"
+  },
+  "city": "MERAK,ID",
+  "coordinates": {
+    "latitude": -5.9302409,
+    "longitude": 105.9967938,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b1f"
+  },
+  "city": "MALTA,MT",
+  "coordinates": {
+    "latitude": 35.8885993,
+    "longitude": 14.4476911,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b20"
+  },
+  "city": "FOYNES",
+  "coordinates": {
+    "latitude": 52.6111406,
+    "longitude": -9.1109507,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b21"
+  },
+  "city": "EEMSHAVEN,NL",
+  "coordinates": {
+    "latitude": 53.44847365,
+    "longitude": 6.849962702578557,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b22"
+  },
+  "city": "NORTH,SPAIN",
+  "coordinates": {
+    "latitude": 39.55320849778889,
+    "longitude": 2.7280124938798047,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b23"
+  },
+  "city": "SEVILLA,ESP",
+  "coordinates": {
+    "latitude": 26.107746280819654,
+    "longitude": -81.67627540087281,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b24"
+  },
+  "city": "BELAWAN,ID",
+  "coordinates": {
+    "latitude": 3.7866678,
+    "longitude": 98.6957237,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b25"
+  },
+  "city": "ZHANGZHOU,CN",
+  "coordinates": {
+    "latitude": 24.2388257,
+    "longitude": 117.4524304,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b26"
+  },
+  "city": "RIO DE JANEIRO,BR",
+  "coordinates": {
+    "latitude": -22.9110137,
+    "longitude": -43.2093727,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b27"
+  },
+  "city": "HONGKONG,CN",
+  "coordinates": {
+    "latitude": 22.350627,
+    "longitude": 114.1849161,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b28"
+  },
+  "city": "VANINO,RU",
+  "coordinates": {
+    "latitude": 49.090481,
+    "longitude": 140.260864,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b29"
+  },
+  "city": "ST. MAARTEN,NL",
+  "coordinates": {
+    "latitude": 18.0423736,
+    "longitude": -63.0549948,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b2a"
+  },
+  "city": "KRIBI,CM",
+  "coordinates": {
+    "latitude": 2.9434098,
+    "longitude": 9.9126989,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b2b"
+  },
+  "city": "US GULF,USA",
+  "coordinates": {
+    "latitude": 30.104008055364186,
+    "longitude": -94.11236536992465,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b2c"
+  },
+  "city": "FUJAIRAH,UAE",
+  "coordinates": {
+    "latitude": 25.336728100000002,
+    "longitude": 56.172704258882646,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b2d"
+  },
+  "city": "KEMAMAN,MY",
+  "coordinates": {
+    "latitude": 4.2395837499999995,
+    "longitude": 103.19126066080871,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b2e"
+  },
+  "city": "MARSHALL ISLANDS",
+  "coordinates": {
+    "latitude": 8.230816999999998,
+    "longitude": 167.7953223704529,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b2f"
+  },
+  "city": "BRISTOL,UK",
+  "coordinates": {
+    "latitude": 51.4626533,
+    "longitude": -2.507498932256894,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b30"
+  },
+  "city": "SOUTH,CHILE",
+  "coordinates": {
+    "latitude": 11.9583058,
+    "longitude": -84.6159087,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b31"
+  },
+  "city": "PANAMA",
+  "coordinates": {
+    "latitude": 8.559559,
+    "longitude": -81.1308434,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b32"
+  },
+  "city": "ZHANJIANG,CN",
+  "coordinates": {
+    "latitude": 21.2737079,
+    "longitude": 110.3548318,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b33"
+  },
+  "city": "KHALIFA,UAE",
+  "coordinates": {
+    "latitude": 24.4338854,
+    "longitude": 54.4392549,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b34"
+  },
+  "city": "THAILAND",
+  "coordinates": {
+    "latitude": 14.8971921,
+    "longitude": 100.83273,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b35"
+  },
+  "city": "WEST AFRICA",
+  "coordinates": {
+    "latitude": -26.1347819,
+    "longitude": 25.6546729,
+    "source": "photon"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b36"
+  },
+  "city": "BALTIC SEA",
+  "coordinates": {
+    "latitude": 56,
+    "longitude": 18,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b37"
+  },
+  "city": "YANGJIANG,CN",
+  "coordinates": {
+    "latitude": 22.0958223,
+    "longitude": 111.7831393,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b38"
+  },
+  "city": "TACLOBAN,PH",
+  "coordinates": {
+    "latitude": 11.2436208,
+    "longitude": 125.0079543,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b39"
+  },
+  "city": "LEBANON",
+  "coordinates": {
+    "latitude": 33.8750629,
+    "longitude": 35.843409,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b3a"
+  },
+  "city": "WALVIS BAY",
+  "coordinates": {
+    "latitude": -22.9557607,
+    "longitude": 14.5071125,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b3b"
+  },
+  "city": "BINTULU ,MY",
+  "coordinates": {
+    "latitude": 3.1874261,
+    "longitude": 113.0472803,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b3c"
+  },
+  "city": "LAGOS,NE",
+  "coordinates": {
+    "latitude": -15.5761635,
+    "longitude": -39.1340518,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b3d"
+  },
+  "city": "KUCHING,MY",
+  "coordinates": {
+    "latitude": 1.5597561,
+    "longitude": 110.345397,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b3e"
+  },
+  "city": "CEBU,PH",
+  "coordinates": {
+    "latitude": 10.47,
+    "longitude": 123.83,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b3f"
+  },
+  "city": "COLOMBO,LK",
+  "coordinates": {
+    "latitude": 6.9388614,
+    "longitude": 79.8542005,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b40"
+  },
+  "city": "PRACHUAP,TH",
+  "coordinates": {
+    "latitude": 12.0432669,
+    "longitude": 99.7487235,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b41"
+  },
+  "city": "GUAYAQUIL,EC",
+  "coordinates": {
+    "latitude": -2.2895167,
+    "longitude": -80.0983887437901,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b42"
+  },
+  "city": "PALEMBANG,ID",
+  "coordinates": {
+    "latitude": -2.9888243,
+    "longitude": 104.7568507,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b43"
+  },
+  "city": "OSAKA,JP",
+  "coordinates": {
+    "latitude": 34.6937569,
+    "longitude": 135.5014539,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b44"
+  },
+  "city": "CYPRUS",
+  "coordinates": {
+    "latitude": 34.9823018,
+    "longitude": 33.1451285,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b45"
+  },
+  "city": "SUEZ CANAL,EG",
+  "coordinates": {
+    "latitude": 30.6052767,
+    "longitude": 32.3331003,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b46"
+  },
+  "city": "YANGTZE RIVER,CN",
+  "coordinates": {
+    "latitude": 30.5588519,
+    "longitude": 114.287703,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b47"
+  },
+  "city": "PUERTO QUETZAL,GT",
+  "coordinates": {
+    "latitude": 13.933376769825637,
+    "longitude": -90.78890724101925,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b48"
+  },
+  "city": "MONTREAL,CA",
+  "coordinates": {
+    "latitude": 45.5031824,
+    "longitude": -73.5698065,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b49"
+  },
+  "city": "NEWPORT,US",
+  "coordinates": {
+    "latitude": 41.4899827,
+    "longitude": -71.3137707,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b4a"
+  },
+  "city": "DILI,TL",
+  "coordinates": {
+    "latitude": -8.5536809,
+    "longitude": 125.5784093,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b4b"
+  },
+  "city": "SHATIAN,CN",
+  "coordinates": {
+    "latitude": 22.9223476,
+    "longitude": 113.6129572,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b4c"
+  },
+  "city": "CHARLESTON,UK",
+  "coordinates": {
+    "latitude": 56.5986801,
+    "longitude": -3.0081641,
+    "source": "nominatim"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5f715ef1bfde093c79b4d"
+  },
+  "city": "STYLIDA,GR",
+  "coordinates": {
+    "latitude": 38.9139258,
+    "longitude": 22.6149855,
+    "source": "nominatim"
+  }
+}]

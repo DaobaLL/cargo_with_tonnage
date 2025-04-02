@@ -63,6 +63,15 @@ def update_coordinates_if_valid(collection, document, port_field, coordinates_fi
     else:
         print(f"文档 ID: {document['_id']} 的 {coordinates_field} 数据无效，跳过")
 
+# 删除港口名称为 NIL 的数据
+def delete_nil_port_data(collection, port_fields):
+    """
+    删除集合中港口名称为 NIL 的所有文档。
+    """
+    for port_field in port_fields.keys():
+        result = collection.delete_many({port_field: "NIL"})
+        print(f"已删除 {result.deleted_count} 条港口名称为 NIL 的记录 (字段: {port_field})")
+
 # 统计集合中的坐标信息
 def count_coordinates(collection, port_fields):
     """
@@ -150,6 +159,10 @@ def all_action():
     ship_port_fields = {
         'open_port': 'open_port_coordinates'
     }
+
+    # 删除港口名称为 NIL 的数据
+    delete_nil_port_data(cargo_collection, cargo_port_fields)
+    delete_nil_port_data(ship_collection, ship_port_fields)
 
     check_and_update_coordinates(cargo_collection, cargo_port_fields)
     check_and_update_coordinates(ship_collection, ship_port_fields)
