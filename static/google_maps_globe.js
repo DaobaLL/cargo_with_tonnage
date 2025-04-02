@@ -3,20 +3,12 @@ let markers = [];
 let flightPath;
 
 function initMap() {
-    map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 3,
-        center: { lat: 0, lng: 0 },
-        mapTypeId: "terrain",
-    });
+    console.log("Google Maps initialized");
+    // 初始化地图逻辑
 }
 
 function renderMap(record) {
-    console.log("Rendering map for record:", record); // Debug log
-    if (!record.loading_port_coordinates_geo || !record.open_port_coordinates_geo) {
-        console.error("Invalid coordinates for this record:", record);
-        alert("Invalid coordinates for this record.");
-        return;
-    }
+    console.log("Rendering map for record:", record);
 
     const loadingCoords = {
         lat: record.loading_port_coordinates_geo.coordinates[1],
@@ -27,34 +19,22 @@ function renderMap(record) {
         lng: record.open_port_coordinates_geo.coordinates[0],
     };
 
-    console.log("Loading coordinates:", loadingCoords); // Debug log
-    console.log("Open coordinates:", openCoords); // Debug log
+    console.log("Loading coordinates:", loadingCoords);
+    console.log("Open coordinates:", openCoords);
 
-    // Clear previous markers and flight path
-    markers.forEach(marker => marker.setMap(null));
-    if (flightPath) flightPath.setMap(null);
+    if (typeof google === "undefined" || typeof google.maps === "undefined") {
+        console.error("Google Maps API is not loaded");
+        alert("Google Maps API failed to load. Please check your network or API key.");
+        return;
+    }
 
-    // Add markers for the two locations
-    markers = [
-        new google.maps.Marker({ position: loadingCoords, map: map, title: "Loading Port" }),
-        new google.maps.Marker({ position: openCoords, map: map, title: "Open Port" }),
-    ];
-
-    // Draw a great circle arc between the two points
-    flightPath = new google.maps.Polyline({
-        path: [loadingCoords, openCoords],
-        geodesic: true,
-        strokeColor: "#FF0000",
-        strokeOpacity: 1.0,
-        strokeWeight: 2,
-        map: map,
+    const map = new google.maps.Map(document.getElementById("map"), {
+        center: loadingCoords,
+        zoom: 8,
     });
 
-    // Adjust the map view to fit both points
-    const bounds = new google.maps.LatLngBounds();
-    bounds.extend(loadingCoords);
-    bounds.extend(openCoords);
-    map.fitBounds(bounds);
+    new google.maps.Marker({ position: loadingCoords, map, title: "Loading Port" });
+    new google.maps.Marker({ position: openCoords, map, title: "Open Port" });
 }
 
 // Initialize the map

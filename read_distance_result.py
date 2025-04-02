@@ -26,20 +26,17 @@ GOOGLE_MAPS_API_KEY = "AIzaSyBS4hLP9ST1uvT3vxT-vR_3bZJ-BXCUoQo"
 
 @app.route("/maps-api", methods=["GET"])
 def maps_api():
-    # 获取前端传递的参数
     params = request.args.to_dict()
     params["key"] = GOOGLE_MAPS_API_KEY
-
-    # 转发请求到 Google Maps API
     try:
         response = requests.get("https://maps.googleapis.com/maps/api/js", params=params, stream=True)
-        response.raise_for_status()  # 检查是否有 HTTP 错误
-
-        # 构造 Flask 响应对象
+        response.raise_for_status()
+        print("Google Maps API loaded successfully")
+        
+        # 构造 Flask 响应对象，确保正确转发内容和头部
         flask_response = Response(response.content, status=response.status_code)
         for key, value in response.headers.items():
             flask_response.headers[key] = value
-
         return flask_response
     except requests.exceptions.RequestException as e:
         print(f"Error fetching Google Maps API: {e}")
